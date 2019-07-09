@@ -1,0 +1,2 @@
+# GETSample
+Sample GET
